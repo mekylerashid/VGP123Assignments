@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: 502b261c5505c7e498d4f9c522e40439
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -112987369672044884
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_0
+  - first:
+      213: -8386759911265106331
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_1
+  - first:
+      213: 7777078715616374648
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_2
+  - first:
+      213: 6294038134456126712
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_3
+  - first:
+      213: 2512160409094809918
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_4
+  - first:
+      213: -8220812801872031548
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_5
+  - first:
+      213: 8081815613117658494
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_6
+  - first:
+      213: -4261739683171811081
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_7
+  - first:
+      213: -3475292698119460570
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_8
+  - first:
+      213: -2719496871473087097
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_9
+  - first:
+      213: -8725313288783184504
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_10
+  - first:
+      213: 8585688986451781517
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_11
+  - first:
+      213: -5579056164159260403
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_12
+  - first:
+      213: 2624660662275751591
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_13
+  - first:
+      213: 2788794492051424648
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_14
+  - first:
+      213: -3259754021577229191
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_15
+  - first:
+      213: -3730707233223071926
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_16
+  - first:
+      213: 8254977438964557351
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_17
+  - first:
+      213: -4057146953456469787
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_18
+  - first:
+      213: 6173382920186789862
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_19
+  - first:
+      213: -8614784265543581997
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_20
+  - first:
+      213: 2763816951015151317
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_21
+  - first:
+      213: 1772665646966680238
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_22
+  - first:
+      213: 8486796905575589923
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_23
+  - first:
+      213: 5932265511583792842
+    second: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 129
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae879ef5969e6ef0800000000000000
+      internalID: -112987369672044884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 129
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5668e80bb4e3c9b80800000000000000
+      internalID: -8386759911265106331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 109
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fa09a13ebbdeb60800000000000000
+      internalID: 7777078715616374648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 109
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc0507065ae85750800000000000000
+      internalID: 6294038134456126712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 109
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3965e2059cfcd220800000000000000
+      internalID: 2512160409094809918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 109
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c01f6bff4ec9ed80800000000000000
+      internalID: -8220812801872031548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 90
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7575181b70682070800000000000000
+      internalID: 8081815613117658494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0cb5b76524bd4c0800000000000000
+      internalID: -4261739683171811081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 90
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a41634b745cfc0800000000000000
+      internalID: -3475292698119460570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 91
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d7f000108624ad0800000000000000
+      internalID: -2719496871473087097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 69
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d3514eac579e680800000000000000
+      internalID: -8725313288783184504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 69
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87217de4ae762770800000000000000
+      internalID: 8585688986451781517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 69
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0975515af53392b0800000000000000
+      internalID: -5579056164159260403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 49
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae33ee57faac6420800000000000000
+      internalID: 2624660662275751591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 49
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8858a4a90d9c3b620800000000000000
+      internalID: 2788794492051424648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 48
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cfcb00df603c2d0800000000000000
+      internalID: -3259754021577229191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 49
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4722ca998dd93cc0800000000000000
+      internalID: -3730707233223071926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 29
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726a8567e329f8270800000000000000
+      internalID: 8254977438964557351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 29
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e83bad675e12b7c0800000000000000
+      internalID: -4057146953456469787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 29
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef7234de034ca550800000000000000
+      internalID: 6173382920186789862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 29
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de76a38a53227880800000000000000
+      internalID: -8614784265543581997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d61675afdc0b5620800000000000000
+      internalID: 2763816951015151317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 8
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaacf09306c99810800000000000000
+      internalID: 1772665646966680238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 17
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a7b512d827c570800000000000000
+      internalID: 8486796905575589923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceb0436d04a35250800000000000000
+      internalID: 5932265511583792842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 129
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e803c02220cc44b85ce47ab34a40ad
+      internalID: 531745865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 129
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0442aedb6603c449eb9ce25b1430df
+      internalID: 515212020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 69
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457496f9d246f7d4f8b9a564ef81b6a2
+      internalID: 1110978412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 530bb6dc19ebf3240bfa39527c74b29c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_0: -112987369672044884
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_1: -8386759911265106331
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_10: -8725313288783184504
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_11: 8585688986451781517
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_12: -5579056164159260403
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_13: 2624660662275751591
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_14: 2788794492051424648
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_15: -3259754021577229191
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_16: -3730707233223071926
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_17: 8254977438964557351
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_18: -4057146953456469787
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_19: 6173382920186789862
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_2: 7777078715616374648
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_20: -8614784265543581997
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_21: 2763816951015151317
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_22: 1772665646966680238
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_23: 8486796905575589923
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_24: 5932265511583792842
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_25: 531745865
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_26: 515212020
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_27: 1110978412
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_3: 6294038134456126712
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_4: 2512160409094809918
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_5: -8220812801872031548
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_6: 8081815613117658494
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_7: -4261739683171811081
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_8: -3475292698119460570
+      rotating_chaos_emerald_sprites_by_midday_mew_d4fc2xo-fullview_9: -2719496871473087097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
